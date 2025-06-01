@@ -8,7 +8,7 @@ import java.util.HashMap;
 public class StripeSessionHelper {
 
     public static Session createSession() throws StripeException {
-        String secretKey = "sk_test_51P7hlRSIE4KEYpsDtKCqe7hvBU499acOrlEcEuLrog8OopjaIv3dkTMD5JAVS7nDXYNhhkyGx5guqKW1t1cHdhG1005hlutYMF";
+        // String secretKey = "sk_test_51P7hlRSIE4KEYpsDtKCqe7hvBU499acOrlEcEuLrog8OopjaIv3dkTMD5JAVS7nDXYNhhkyGx5guqKW1t1cHdhG1005hlutYMF";
         Stripe.apiKey = secretKey;
 
         String successUrl = "https://yourdomain.com/success.jsp";

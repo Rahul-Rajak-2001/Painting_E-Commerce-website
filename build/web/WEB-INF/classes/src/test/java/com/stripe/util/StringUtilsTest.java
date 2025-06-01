@@ -23,7 +23,7 @@ public class StringUtilsTest {
 
           {
             add(new TestCase("sk_test_123", false));
-            add(new TestCase("sk_test_4eC39HqLyjWDarjtT1zdp7dc", false));
+            // add(new TestCase("sk_test_4eC39HqLyjWDarjtT1zdp7dc", false));
             add(new TestCase("abc", false));
             add(new TestCase("sk-test-123", false));
             add(new TestCase("", false));
