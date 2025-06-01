@@ -29,7 +29,8 @@ These lines are important for running the test cases related to Stripe utilities
 Uncomment line 83 in the payment.jsp file.
 This enables the payment button so you can test the Stripe checkout.
 
-📂 Technologies Used
+
+# 📂 Technologies Used
 Frontend: HTML, CSS, JavaScript
 Backend: Java (JSP & Servlets)
 Database: MySQL
