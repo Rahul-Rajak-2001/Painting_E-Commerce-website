@@ -30,5 +30,4 @@ This enables the payment button so you can test the Stripe checkout.
 
 # 📂 Technologies Used
 
-Frontend: HTML, CSS, JavaScript
-Backend: Java (JSP & Servlets)   Database: MySQL   Payment Integration: Stripe (Test Mode)
+Frontend: HTML, CSS, JavaScript   Backend: Java (JSP & Servlets)   Database: MySQL   Payment Integration: Stripe (Test Mode)
