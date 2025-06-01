@@ -7,10 +7,12 @@ then first of all he/she must be registered there is a sign up option for that. 
 ,add to cart, view cart, update cart items, proceed to pay, view order status, and also send and receive messages from admin.
 
 SELLER  MODULE
+
  In seller module if any seller wants to sell his paintings then first of all he or she must be 
 registered there is a sign up option for that, After the successful registration seller can login by their email ID and password. After login seller can view own profile, update profile, add painting category, add paintings including details like image name price quantity category name, view own paintings, update paintings, view own order status and also send and receive message from admin.
 
 ADMIN MODULE
+
  In admin module admin can login by their default ID and password and he or she can be able to 
 view all customers, all sellers, all paintings and it can also be able to delete it and admin can also view and delete all paintings of any particular seller.Admin can manage all orders and update their order status it can send and receive messages from customer and seller and it can also view the total sell.
 
