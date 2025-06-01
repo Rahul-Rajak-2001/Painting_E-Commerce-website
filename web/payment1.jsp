@@ -82,7 +82,7 @@
     <script
         src="https://checkout.stripe.com/checkout.js"
         class="stripe-button"
-        data-key="pk_test_51P7hlRSIE4KEYpsD8f1w15ofoyxvpp8GPIzS5NidX4B4gRLldqG0zw3oybwDsNC7i5htkXu1ToLhnu5PmIiDyUoF00RIh83aFQ"
+        <!-- data-key="pk_test_51P7hlRSIE4KEYpsD8f1w15ofoyxvpp8GPIzS5NidX4B4gRLldqG0zw3oybwDsNC7i5htkXu1ToLhnu5PmIiDyUoF00RIh83aFQ" -->
         data-amount="<%=grandTotal * 100%>"
         data-name="Art-Shop"
         data-description="A description of the payment"
